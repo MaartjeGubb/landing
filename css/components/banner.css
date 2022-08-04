@@ -1,0 +1,58 @@
+.banner {
+  background-image: url("https://images.pexels.com/photos/2964916/pexels-photo-2964916.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-color: black;
+  background-size: cover;
+  background-position: center;
+  margin: 0 auto;
+}
+
+.container{
+  padding: 200px;
+  text-align: center;
+}
+
+.container h1 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 160px;
+  margin: 0 auto;
+}
+
+.container a {
+  font-size: 50px;
+  color: black;
+}
+
+.container a:hover {
+  font-size: 70px;
+}
+
+.card {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card img{
+  width: 160px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.second_container {
+  text-align: center;
+
+}
+
+.links{
+  background-color: black;
+  text-align: center;
+}
+
+.links a {
+  font-size: 50px;
+  color: rgb(254,220,0);
+  padding: 10px;
+}
